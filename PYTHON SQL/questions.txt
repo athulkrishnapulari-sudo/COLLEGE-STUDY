@@ -1,0 +1,57 @@
+[
+    {
+        "question": "What is the output of print(2 + 3)?",
+        "options": ["4", "5", "6", "7"],
+        "answer": "5"
+    },
+    {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": ["func", "function", "def", "define"],
+        "answer": "def"
+    },
+    {
+        "question": "Which SQL command is used to retrieve data from a table?",
+        "options": ["GET", "SELECT", "FETCH", "READ"],
+        "answer": "SELECT"
+    },
+    {
+        "question": "Which symbol is used to write a comment in Python?",
+        "options": ["//", "#", "--", "/* */"],
+        "answer": "#"
+    },
+    {
+        "question": "Which SQL command is used to add a new record?",
+        "options": ["INSERT", "ADD", "CREATE", "UPDATE"],
+        "answer": "INSERT"
+    },
+    {
+        "question": "What is the output of print(len('Python'))?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "6"
+    },
+    {
+        "question": "Which data type stores True or False in Python?",
+        "options": ["int", "str", "bool", "float"],
+        "answer": "bool"
+    },
+    {
+        "question": "Which SQL clause is used to filter records?",
+        "options": ["ORDER BY", "WHERE", "GROUP BY", "HAVING"],
+        "answer": "WHERE"
+    },
+    {
+        "question": "What does SQL stand for?",
+        "options": [
+            "Simple Query Language",
+            "Structured Query Language",
+            "Standard Query Language",
+            "System Query Language"
+        ],
+        "answer": "Structured Query Language"
+    },
+    {
+        "question": "Which function is used to get input from the user in Python?",
+        "options": ["scan()", "input()", "read()", "get()"],
+        "answer": "input()"
+    }
+]
