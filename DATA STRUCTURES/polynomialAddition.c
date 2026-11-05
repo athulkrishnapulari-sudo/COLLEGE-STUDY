@@ -14,7 +14,7 @@ void input(struct poly p[],int size){
 void display(struct poly p[],int size){
     int i;
     for(i=0;i<size-1;i++){
-        printf("%dx^%d +",p[i].coeff,p[i].exp);
+        printf("%dx^%d + ",p[i].coeff,p[i].exp);
     }
     printf("%dx^%d\n",p[i].coeff,p[i].exp);
 }
