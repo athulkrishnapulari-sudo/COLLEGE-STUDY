@@ -74,7 +74,6 @@ int main(){
     display(p1,p1s);
     printf("Entered Polynomial 2 : ");
     display(p2,p2s);
-
     printf("Resulting Polynomial : ");
     display(result,AddPoly(p1,p2,result,p1s,p2s));
 }
